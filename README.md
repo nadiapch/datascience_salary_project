@@ -2,9 +2,9 @@
 Repo for the data science salary prediction from Glassdoor project
 
 ## Code and Resources 
-Python Version: 3.7
-Packages: pandas, numpy, matplotlib, seaborn, selenium, flask, json, pickle 
-Data : https://github.com/PlayingNumbers/ds_salary_proj 
+###### Python Version: 3.7
+###### Packages: pandas, numpy, matplotlib, seaborn, selenium, flask, json, pickle 
+###### Data : https://github.com/PlayingNumbers/ds_salary_proj 
 
 
 ## Data Cleaning

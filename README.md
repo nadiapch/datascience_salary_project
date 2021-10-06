@@ -1,4 +1,4 @@
-# ds_salary_project
+# datascience_salary_project
 Repo for the data science salary prediction from Glassdoor project
 
 ## Code and Resources 
